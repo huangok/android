@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.apt.aptEnabled=true
+org.eclipse.jdt.apt.genSrcDir=annotations/
+org.eclipse.jdt.apt.processorOptions/Trace=false
+org.eclipse.jdt.apt.processorOptions/logAppenderFile=false
+org.eclipse.jdt.apt.reconcileEnabled=true

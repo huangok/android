@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">龙城水源</string>
+    <string name="edit_map">水源编辑</string>
+    <string name="map_statellite">普通/卫星</string>
+    <string name="home_map">首页</string>
+
+</resources>
